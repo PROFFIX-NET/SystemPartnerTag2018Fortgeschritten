@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "AttendanceListExtension": {
+      "commandName": "Project",
+      "commandLineArgs": "--urls=http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

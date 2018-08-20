@@ -1,0 +1,7 @@
+﻿{
+  "Name": "AttendanceListExtension",
+  "Vendor": "PROFFIX",
+  "Version": "1.0.0",
+  "Webservice": "AttendanceListExtension.exe",
+  "Events": {}
+}
